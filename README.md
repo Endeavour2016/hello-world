@@ -1,2 +1,4 @@
 # hello-world
-just a test repository
+Hi humans!
+
+I am Li, I like coding!
